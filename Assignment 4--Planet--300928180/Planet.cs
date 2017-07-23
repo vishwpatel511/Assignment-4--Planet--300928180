@@ -114,7 +114,7 @@ namespace Assignment_4__Planet__300928180
         // It returns name, diameter and mass
         public override string ToString()
         {
-            return "Name of the planet: " + Name + " diameter(in kms): " + Diameter + " mass(in pound): " + Mass;
+            return "Name of the planet: " + Name + " |diameter(in kms): " + Diameter + " |mass(in pound): " + Mass;
 
         }
     }
