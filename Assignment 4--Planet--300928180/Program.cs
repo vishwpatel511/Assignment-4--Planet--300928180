@@ -22,7 +22,6 @@ namespace Assignment_4__Planet__300928180
         {
             // creating giantPlanet object
             GiantPlanet giantPlanet = new GiantPlanet("Saturn", 116464, 5.683E16, "Gaseous");
-            //67, 11.86, 4, 0.41,
             Console.WriteLine(giantPlanet.ToString());
             // Console.WriteLine("--------------------------------------------------------");
             Console.WriteLine("Does the Planet has moons? " + giantPlanet.HasMoons());
